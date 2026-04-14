@@ -6,7 +6,7 @@
 
 ## About
 
-This is my personal portfolio website built as part of my CS202 coursework at Northern Michigan University. The site documents my home lab Security Operations Center project, showcasing my hardware, software stack, and cybersecurity skills.
+This is my personal portfolio website built as part of my C101 coursework at Northern Michigan University. The site documents my home lab Security Operations Center project, showcasing my hardware, software stack, and cybersecurity skills.
 
 ---
 
