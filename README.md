@@ -6,7 +6,7 @@
 
 ## About
 
-This is my personal portfolio website built as part of my CS101 coursework at Northern Michigan University. The site documents my home lab Security Operations Center project, showcasing my hardware, software stack, and cybersecurity skills.
+I Designed this website and SIEM System and was offered and internship by UPCI that dually counts as an independant study at Northern Michigan University. The site documents the Security Operations Center and Security Information and Event Management network that I personally designed and will be transferring over to the Upper Penninsula Cybersecurity Institute once complete, showcasing the hardware, software stack, and network diagram. Undergoing changes currently. 
 
 ---
 
