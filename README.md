@@ -45,7 +45,7 @@ I Designed this website and SIEM System and was offered an internship by UPCI th
 
 ## Related
 
-- [Home Lab SOC Architecture](https://github.com/TristenDennis3/home-lab-soc) — Full network diagram and architecture documentation for the SOC home lab this site is based on.
+- [SIEM Lab Architecture](https://github.com/TristenDennis3/home-lab-soc) — Full network diagram and architecture documentation for the SIEM lab this site is based on.
 
 ---
 
